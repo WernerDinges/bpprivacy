@@ -1,0 +1,75 @@
+Privacy Policy
+
+
+Baryon Pancake ("developer") built Pocketronics ("app") as an ad-free app.
+
+This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.
+
+
+1. Overview
+
+The app uses neither advertising nor in-app payments.
+
+Links to privacy policies of third party service providers used in the app
+
+
+2. Sharing Your Information
+
+The developer doesn't share any personal information.
+
+
+3. What information are collected and why
+
+Pocketronics is an offline application. It doesn't collect any personal information.
+
+
+4. Security
+
+Since the application uses neither advertising nor the Internet, the developer guarantees
+the security of personal data during the use of the application. However, the developer is
+not responsible for unforeseen circumstances that have arisen in the course of using the
+application.
+Especially the developer is not responsible for the consequences of using Pocketronics
+if the application was modified by a third party or was downloaded from a third-party
+resource (not from Google Play)
+
+
+5. Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you 
+will be directed to that site. Note that these external sites are not operated by me.
+Therefore, I strongly advise you to review the Privacy Policy of these websites. I have 
+no control over and assume no responsibility for the content, privacy policies, or 
+practices of any third-party sites or services.
+
+
+6. Children’s Privacy
+
+These Services do not address anyone under the age of 16. I do not knowingly collect 
+personally identifiable information from children under 16. In the case I discover that 
+a child under 16 has provided me with personal information, I immediately delete those 
+informations. If you are a parent or guardian and you are aware that your child has
+provided personal information, please contact me so that I will be able to do necessary
+actions.
+
+
+7. Distribution
+
+The only official channel for distribution of this app is Google Play Store
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+8. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
+
+
+Contact me
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to
+contact me.
+
+d59dinges(AT)gmail(DOT)com
